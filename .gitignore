@@ -4,5 +4,4 @@
 .classpath
 LICENSE.txt
 # Folders to exclude #
-build/
-
+build/**
